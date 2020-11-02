@@ -10,9 +10,8 @@ I'm from Saudi Arabia, and I do content on Web-Development and Design. I really 
 - ⚡ Fun fact: Sleeping with a problem can actually solve it. 
 
 ### Examples of Work:
-<img src="https://github.com/Abdulrahman-Shaibi/Abdulrahman-Shaibi/blob/main/Project%201.png" height='400'> <img src="https://github.com/Abdulrahman-Shaibi/Abdulrahman-Shaibi/blob/main/Project-2.png" height='400'>
+<img src="https://github.com/Abdulrahman-Shaibi/Abdulrahman-Shaibi/blob/main/Project%201.png" height='400'><img src="https://github.com/Abdulrahman-Shaibi/Abdulrahman-Shaibi/blob/main/Project-2.png" height='400'><img src="https://github.com/Abdulrahman-Shaibi/Abdulrahman-Shaibi/blob/main/Project-3.gif" height=''>
 
-www.travell-shaibi.site           -----------------------       www.asian-sushi.com
 
 ### Web Development and Design
 
