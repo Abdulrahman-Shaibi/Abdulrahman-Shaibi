@@ -2,7 +2,7 @@
 
 I'm from Saudi Arabia, and I do content on Web-Development and Design. I really enjoy learning languages and frameworks and currently I'm learning React , I also enjoy wireframing, ui, ux, and design in general.
 
-###Skills:💻  HTML / CSS / SASS / JS
+### Skills:💻  HTML / CSS / SASS / JS
 
 - 🔭 I’m currently working on my own online-business . 
 - 🌱 I’m currently learning JavaScript and frameworks. 
